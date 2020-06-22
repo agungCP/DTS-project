@@ -135,6 +135,18 @@
         font-size: 14px;
     }
 
+    nav .menu-hp {
+        color: white;
+        float: right;
+        font-size: 25px;
+        padding: 21px 0;
+        display: block;
+    }
+
+    .header-nav {
+        display: none;
+    }
+
     .hero {
         background-image: none;
         background-repeat: no-repeat;
