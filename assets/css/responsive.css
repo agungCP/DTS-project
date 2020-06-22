@@ -104,7 +104,7 @@
 
 /* responsive HP */
 
-@media (max-width: 600px) {
+@media (max-width: 670px) {
     header {
         background-color: #00cec9;
         width: 100%;
@@ -208,7 +208,7 @@
 
     .member {
         background-color: #00cec9;
-        width: 45%;
+        width: 44%;
         text-align: center;
         margin: 10px;
         padding: 10px;
