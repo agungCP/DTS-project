@@ -70,6 +70,7 @@ nav {
 
 .header-nav li a {
     color: white;
+    transition: 0.3s;
 }
 
 .header-nav li a:hover {
